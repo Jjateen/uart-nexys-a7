@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Wed Feb 12 22:39:29 2025
+# Process ID         : 30252
+# Current directory  : C:/Users/jjate/OneDrive/Desktop/nexys/uart_a7/uart_a7.runs/synth_1
+# Command line       : vivado.exe -log terminal_demo.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source terminal_demo.tcl
+# Log file           : C:/Users/jjate/OneDrive/Desktop/nexys/uart_a7/uart_a7.runs/synth_1/terminal_demo.vds
+# Journal file       : C:/Users/jjate/OneDrive/Desktop/nexys/uart_a7/uart_a7.runs/synth_1\vivado.jou
+# Running On         : JjNitro
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i5-13420H
+# CPU Frequency      : 2611 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 12
+# Host memory        : 16869 MB
+# Swap memory        : 2550 MB
+# Total Virtual      : 19419 MB
+# Available Virtual  : 7727 MB
+#-----------------------------------------------------------
+source terminal_demo.tcl -notrace
